@@ -43,7 +43,7 @@
           <h3 class="headingList__heading h3">Benefits of a styleguide</h3>
           <ul>
             <li>Show all of your frontend elements in an organized, scanable, defined and fully functioning way.</li>
-            <li>Have full documentaion to hand off to other teams.</li>
+            <li>Have full documentation to hand off to other teams.</li>
             <li>Promotes modular and reusable elements.</li>
           </ul>
         </div>
